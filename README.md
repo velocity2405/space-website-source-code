@@ -5,3 +5,5 @@ The assets folder holds all the images, CSS styles and prequesites required to r
 All the web-pages are stored as individual html files.
 If you wish to run the code, download the file as a zip and host it using free hosters like replit or some other similar website hosting service.
 Feel free to make any modifications and publish the modified websites as long as credit is given when it's due :)
+
+If you like the website, give us a rating on github, thanks in advance :D
